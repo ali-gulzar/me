@@ -1,2 +1,2 @@
-# myself
-Website about myself
+# me
+Website about me
